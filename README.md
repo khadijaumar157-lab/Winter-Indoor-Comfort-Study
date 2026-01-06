@@ -1,20 +1,21 @@
 # Winter-Indoor-Comfort-Study
-# Winter Indoor Comfort Study
+## Overview
 
-This repository contains a survey-based study investigating indoor environmental conditions and their impact on comfort and minor health symptoms during the winter season. The study explores how temperature, humidity, clothing, and activity levels influence perceived comfort.
+This project investigates how indoor environmental conditions affect perceived comfort and minor health symptoms during winter. Using a survey-based approach, data were collected on temperature, humidity, clothing layers, and activity levels, along with self-reported comfort and symptom scores. 
+
+The analysis explored correlations between environmental variables and comfort, revealing that:  
+- Moderate temperature and humidity levels are associated with higher comfort scores.  
+- Clothing and activity levels can significantly buffer the effects of colder or drier indoor conditions.  
+- Small adjustments to indoor environments can meaningfully improve well-being during winter months.
+
 
 ## Project Structure
 
-- `data/` – Contains raw survey responses (`survey_responses.csv`).  
-- `analysis/` – Excel analysis of survey data (`analysis.xlsx`).  
-- `figures/` – Visualizations of the results (e.g., `comfort_vs_temperature.png`).  
-- `report/` – Full project report in PDF (`Winter_Indoor_Comfort_Study.pdf`).
+- [Raw Data](data/survey_responses.csv) – Survey responses collected from participants.  
+- [Analysis](analysis/analysis.xlsx) – Excel analysis of the survey data.  
+- [Figures](figures/comfort_vs_temperature.png) – Visualizations of key results.  
+- [Full Report](report/Winter_Indoor_Comfort_Study.pdf) – Complete study report with methodology, results, and reflections.
 
-## Overview
-
-The study collected survey responses on participants’ indoor comfort during winter. Key findings include:  
-- Comfort scores vary with temperature, humidity, clothing layers, and activity level.  
-- Maintaining optimal indoor temperature and humidity can enhance everyday comfort and well-being.  
 
 ## How to Use
 
