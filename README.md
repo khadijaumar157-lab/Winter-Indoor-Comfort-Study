@@ -13,7 +13,7 @@ The analysis explored correlations between environmental variables and comfort, 
 
 - [data](data/survey_responses.csv) – Survey responses collected from participants.  
 - [analysis](analysis/) – Analysis of the survey data.  
-- [figures](figures/figures_summary.md) – Summary of key results.  
+- [figures](figures/figures_summary.md) – Overview of key results.  
 - [report](report/) – Complete study report with methodology, results, and reflections.
 
 
