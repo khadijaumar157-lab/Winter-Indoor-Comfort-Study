@@ -11,10 +11,10 @@ The analysis explored correlations between environmental variables and comfort, 
 
 ## Project Structure
 
-- [Raw Data](data/survey_responses.csv) – Survey responses collected from participants.  
-- [Analysis](analysis/analysis.xlsx) – Excel analysis of the survey data.  
-- [Figures](figures/comfort_vs_temperature.png) – Visualizations of key results.  
-- [Full Report](report/Winter_Indoor_Comfort_Study.pdf) – Complete study report with methodology, results, and reflections.
+- [data](data/survey_responses.csv) – Survey responses collected from participants.  
+- [analysis](analysis/) – Analysis of the survey data.  
+- [figures](figures/figures_summary.md) – Summary of key results.  
+- [report](report/Winter_Indoor_Comfort_Study.pdf) – Complete study report with methodology, results, and reflections.
 
 
 ## How to Use
