@@ -1,0 +1,72 @@
+Timestamp	"Question 1:
+What is the approximate indoor temperature of the room you spend most time in during winter?"	"Question 2:
+How would you describe the humidity of your indoor environment?"	"Question 3:
+How many clothing layers do you usually wear indoors?"	"Question 4:
+What is your usual activity level while indoors?"	"Question 5:
+On a scale of 1–10, how comfortable do you generally feel indoors during winter?"	"Question 6:
+Which of the following symptoms do you experience indoors during winter? (Select all that apply)"	"Question 7:
+How long do you spend indoors per day on average?
+"
+1/3/2026 17:31:50	Below 18°C (Cold)	Very dry (dry skin/lips, static)	2 layers	Light activity (walking around, chores)	7	Headache, Fatigue, Dry skin or lips, Cold hands/feet, Difficulty concentrating	More than 14 hours
+1/3/2026 19:18:15	21–23°C (Comfortable)	Slightly dry	1 layer (t-shirt/top)	Mostly sedentary (sitting, studying)	10	Dry skin or lips	More than 14 hours
+1/3/2026 19:21:05	18–20°C (Cool)	Comfortable	3 layers	Moderate activity (housework, movement)	3	Headache, Dry skin or lips	6–10 hours
+1/3/2026 19:24:34	21–23°C (Comfortable)	Very dry (dry skin/lips, static)	1 layer (t-shirt/top)	Mostly sedentary (sitting, studying)	10	Cold hands/feet	10–14 hours
+1/3/2026 19:26:21	Below 18°C (Cold)	Comfortable	1 layer (t-shirt/top)	Moderate activity (housework, movement)	10	Dry skin or lips	More than 14 hours
+1/3/2026 19:27:15	Below 18°C (Cold)	Slightly humid	2 layers	Moderate activity (housework, movement)	8	Cold hands/feet, Difficulty concentrating	10–14 hours
+1/3/2026 19:27:38	24–26°C (Warm)	Very dry (dry skin/lips, static)	2 layers	Moderate activity (housework, movement)	8	Dry skin or lips	Less than 6 hours
+1/3/2026 19:28:21	21–23°C (Comfortable)	Comfortable	2 layers	Moderate activity (housework, movement)	3	Dry skin or lips	10–14 hours
+1/3/2026 19:32:10	18–20°C (Cool)	Comfortable	1 layer (t-shirt/top)	Mostly sedentary (sitting, studying)	10	Difficulty concentrating	More than 14 hours
+1/3/2026 19:33:57	18–20°C (Cool)	Very humid	2 layers	Mostly sedentary (sitting, studying)	5	Dry skin or lips, Cold hands/feet, Difficulty concentrating	6–10 hours
+1/3/2026 19:34:14	21–23°C (Comfortable)	Slightly dry	2 layers	Mostly sedentary (sitting, studying)	9	Headache	10–14 hours
+1/3/2026 19:35:45	21–23°C (Comfortable)	Comfortable	1 layer (t-shirt/top)	Light activity (walking around, chores)	9	Dry skin or lips	More than 14 hours
+1/3/2026 19:35:46	18–20°C (Cool)	Comfortable	2 layers	Mostly sedentary (sitting, studying)	7	Dry skin or lips, Cold hands/feet	More than 14 hours
+1/3/2026 19:39:00	Below 18°C (Cold)	Slightly dry	2 layers	Moderate activity (housework, movement)	6	Fatigue	6–10 hours
+1/3/2026 19:39:09	21–23°C (Comfortable)	Slightly dry	2 layers	Moderate activity (housework, movement)	5	Fatigue, Cold hands/feet	10–14 hours
+1/3/2026 19:40:06	18–20°C (Cool)	Slightly dry	2 layers	Light activity (walking around, chores)	4	Dry skin or lips, Cold hands/feet	More than 14 hours
+1/3/2026 19:44:00	Above 26°C (Very warm)	Slightly humid	2 layers	Mostly sedentary (sitting, studying)	8	Cold hands/feet	6–10 hours
+1/3/2026 19:45:40	21–23°C (Comfortable)	Comfortable	2 layers	High activity (exercise)	8	Headache, Fatigue, Dry skin or lips, Cold hands/feet, Difficulty concentrating	10–14 hours
+1/3/2026 19:49:18	18–20°C (Cool)	Slightly dry	1 layer (t-shirt/top)	Mostly sedentary (sitting, studying)	7	Cold hands/feet	More than 14 hours
+1/3/2026 19:53:29	Below 18°C (Cold)	Slightly dry	2 layers	Light activity (walking around, chores)	6	Fatigue, Dry skin or lips	Less than 6 hours
+1/3/2026 19:58:10	18–20°C (Cool)	Comfortable	2 layers	Light activity (walking around, chores)	8	Dry skin or lips, Cold hands/feet	10–14 hours
+1/3/2026 20:02:32	21–23°C (Comfortable)	Slightly dry	2 layers	Moderate activity (housework, movement)	8	Cold hands/feet	6–10 hours
+1/3/2026 20:03:20	21–23°C (Comfortable)	Comfortable	2 layers	Mostly sedentary (sitting, studying)	8	Dry skin or lips, Cold hands/feet	10–14 hours
+1/3/2026 20:23:17	18–20°C (Cool)	Comfortable	3 layers	Light activity (walking around, chores)	8	Fatigue, Dry skin or lips, Cold hands/feet	More than 14 hours
+1/3/2026 20:40:14	18–20°C (Cool)	Comfortable	2 layers	Mostly sedentary (sitting, studying)	8	Cold hands/feet	10–14 hours
+1/3/2026 21:26:30	21–23°C (Comfortable)	Comfortable	2 layers	Moderate activity (housework, movement)	5	Cold hands/feet	10–14 hours
+1/3/2026 21:28:12	18–20°C (Cool)	Slightly dry	2 layers	Mostly sedentary (sitting, studying)	10	Dry skin or lips, Cold hands/feet	10–14 hours
+1/3/2026 21:29:48	Above 26°C (Very warm)	Comfortable	2 layers	Light activity (walking around, chores)	8	Dry skin or lips, Cold hands/feet	10–14 hours
+1/3/2026 21:32:00	Below 18°C (Cold)	Slightly dry	2 layers	Mostly sedentary (sitting, studying)	9	Dry skin or lips, Cold hands/feet	10–14 hours
+1/3/2026 21:40:44	18–20°C (Cool)	Slightly dry	1 layer (t-shirt/top)	Mostly sedentary (sitting, studying)	9	Cold hands/feet	6–10 hours
+1/3/2026 21:43:27	21–23°C (Comfortable)	Comfortable	2 layers	Moderate activity (housework, movement)	7	Cold hands/feet	More than 14 hours
+1/3/2026 21:48:14	Below 18°C (Cold)	Slightly dry	2 layers	Mostly sedentary (sitting, studying)	9	Fatigue, Dry skin or lips, Cold hands/feet	More than 14 hours
+1/3/2026 21:52:42	21–23°C (Comfortable)	Comfortable	2 layers	Moderate activity (housework, movement)	5	Cold hands/feet	10–14 hours
+1/3/2026 21:53:31	21–23°C (Comfortable)	Comfortable	2 layers	Mostly sedentary (sitting, studying)	8	Cold hands/feet	6–10 hours
+1/3/2026 22:06:43	Below 18°C (Cold)	Comfortable	2 layers	Mostly sedentary (sitting, studying)	7	Dry skin or lips, Cold hands/feet	10–14 hours
+1/3/2026 22:09:56	24–26°C (Warm)	Slightly humid	2 layers	Mostly sedentary (sitting, studying)	8	Fatigue	6–10 hours
+1/3/2026 22:14:50	21–23°C (Comfortable)	Comfortable	2 layers	Mostly sedentary (sitting, studying)	8	Cold hands/feet, Difficulty concentrating	6–10 hours
+1/3/2026 22:17:10	18–20°C (Cool)	Slightly dry	1 layer (t-shirt/top)	Light activity (walking around, chores)	8	Headache, Dry skin or lips, Cold hands/feet	6–10 hours
+1/3/2026 22:21:22	21–23°C (Comfortable)	Slightly dry	1 layer (t-shirt/top)	Mostly sedentary (sitting, studying)	7	Headache, Cold hands/feet	10–14 hours
+1/3/2026 22:27:16	21–23°C (Comfortable)	Comfortable	2 layers	Moderate activity (housework, movement)	7	Fatigue, Dry skin or lips	10–14 hours
+1/3/2026 22:59:21	18–20°C (Cool)	Slightly dry	2 layers	Mostly sedentary (sitting, studying)	9	Dry skin or lips, Cold hands/feet	10–14 hours
+1/3/2026 23:19:50	18–20°C (Cool)	Very dry (dry skin/lips, static)	2 layers	Light activity (walking around, chores)	4	Dry skin or lips	6–10 hours
+1/3/2026 23:34:06	18–20°C (Cool)	Comfortable	3 layers	Light activity (walking around, chores)	8	Fatigue, Dry skin or lips, Cold hands/feet	More than 14 hours
+1/4/2026 0:37:23	21–23°C (Comfortable)	Slightly dry	1 layer (t-shirt/top)	Mostly sedentary (sitting, studying)	10	Headache, Fatigue, Dry skin or lips, Cold hands/feet	10–14 hours
+1/4/2026 1:01:05	18–20°C (Cool)	Comfortable	1 layer (t-shirt/top)	Moderate activity (housework, movement)	8	Headache, Fatigue	6–10 hours
+1/4/2026 1:51:56	18–20°C (Cool)	Slightly dry	2 layers	Moderate activity (housework, movement)	5	Headache, Fatigue, Dry skin or lips, Cold hands/feet, Difficulty concentrating	More than 14 hours
+1/4/2026 2:17:32	18–20°C (Cool)	Comfortable	3 layers	Light activity (walking around, chores)	8	Dry skin or lips, Cold hands/feet	More than 14 hours
+1/4/2026 7:23:03	Below 18°C (Cold)	Very dry (dry skin/lips, static)	3 layers	Mostly sedentary (sitting, studying)	10	Headache, Fatigue, Dry skin or lips, Difficulty concentrating	More than 14 hours
+1/4/2026 7:29:07	Below 18°C (Cold)	Slightly humid	1 layer (t-shirt/top)	Moderate activity (housework, movement)	4	Dry skin or lips, Cold hands/feet, Difficulty concentrating	10–14 hours
+1/4/2026 9:43:36	21–23°C (Comfortable)	Comfortable	3 layers	Moderate activity (housework, movement)	4	Dry skin or lips	10–14 hours
+1/4/2026 16:44:50	21–23°C (Comfortable)	Slightly dry	1 layer (t-shirt/top)	Mostly sedentary (sitting, studying)	9	Dry skin or lips	6–10 hours
+1/4/2026 17:31:39	21–23°C (Comfortable)	Comfortable	2 layers	Mostly sedentary (sitting, studying)	10	Cold hands/feet	More than 14 hours
+1/4/2026 19:26:39	18–20°C (Cool)	Slightly humid	1 layer (t-shirt/top)	Mostly sedentary (sitting, studying)	10	Fatigue, Cold hands/feet	6–10 hours
+1/4/2026 19:39:29	18–20°C (Cool)	Comfortable	3 layers	Moderate activity (housework, movement)	9	Cold hands/feet	More than 14 hours
+1/4/2026 21:10:40	21–23°C (Comfortable)	Comfortable	3 layers	Moderate activity (housework, movement)	10	Dry skin or lips, Cold hands/feet	More than 14 hours
+1/5/2026 3:21:18	21–23°C (Comfortable)	Comfortable	1 layer (t-shirt/top)	Moderate activity (housework, movement)	8	Dry skin or lips, Cold hands/feet, Difficulty concentrating	10–14 hours
+1/5/2026 14:04:11	21–23°C (Comfortable)	Comfortable	1 layer (t-shirt/top)	Mostly sedentary (sitting, studying)	10	Difficulty concentrating	More than 14 hours
+1/5/2026 18:33:58	24–26°C (Warm)	Slightly humid	2 layers	Light activity (walking around, chores)	7	Fatigue, Dry skin or lips, Cold hands/feet	More than 14 hours
+1/5/2026 20:59:06	21–23°C (Comfortable)	Slightly dry	2 layers	Light activity (walking around, chores)	6	Cold hands/feet	6–10 hours
+1/5/2026 20:59:23	24–26°C (Warm)	Slightly humid	2 layers	Light activity (walking around, chores)	8	Cold hands/feet, Difficulty concentrating	More than 14 hours
+1/6/2026 14:28:46	Below 18°C (Cold)	Comfortable	2 layers	Light activity (walking around, chores)	8	Dry skin or lips, Cold hands/feet	6–10 hours
+1/8/2026 18:13:46	21–23°C (Comfortable)	Slightly dry	2 layers	Light activity (walking around, chores)	8	Cold hands/feet	10–14 hours
+1/8/2026 19:48:38	24–26°C (Warm)	Very dry (dry skin/lips, static)	More than 3 layers	Light activity (walking around, chores)	8	Cold hands/feet	10–14 hours
